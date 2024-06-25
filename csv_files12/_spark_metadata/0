@@ -1,0 +1,6 @@
+v1
+{"path":"file:///Users/ronak/Downloads/csv_files12/metricName=disk_io_rate_mbps/part-00000-76432129-f28c-4194-b7b4-641c2c68315f.c000.csv","size":6172,"isDir":false,"modificationTime":1718882716254,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/ronak/Downloads/csv_files12/metricName=error_rate_percentage/part-00000-415c4697-9395-4b29-88ab-447a27a1a696.c000.csv","size":5787,"isDir":false,"modificationTime":1718882716266,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/ronak/Downloads/csv_files12/metricName=memory_usage_gb/part-00000-ef90edde-2fc1-4797-a89c-3d04acbf6669.c000.csv","size":6330,"isDir":false,"modificationTime":1718882716277,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/ronak/Downloads/csv_files12/metricName=network_throughput_mbps/part-00000-3857162d-307b-4d75-825d-ffb5f064b344.c000.csv","size":6937,"isDir":false,"modificationTime":1718882716287,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/ronak/Downloads/csv_files12/metricName=response_time_ms/part-00000-94e781eb-4446-4528-9fc1-96fd9891c812.c000.csv","size":6768,"isDir":false,"modificationTime":1718882716298,"blockReplication":1,"blockSize":33554432,"action":"add"}
